@@ -14,3 +14,13 @@ We are pleased to announce that we have received a great response from developer
 - We show them the ways of OSS, like how we choose a repo, find a issue, raise a PR etc and how to start from simple stuff.
 - And definitely not everyone will move forward, but those who do, we will re-group them and revisit them on ad-hoc basis and provide further support
 - **Our role ends when their first PR gets merged**
+
+## List of Mentors
+
+- [Vilva Athiban P](https://twitter.com/vilvaathibanpb)
+- [Prateek Gogoi](https://twitter.com/reeversedev)
+- [Ashok Dey](https://twitter.com/ashokdey_)
+- [Aditya Agarwaal](https://twitter.com/dev__adi)
+- [Ameer Jhan](https://twitter.com/ameerthehacker)
+- [Shriram Balaji](https://twitter.com/__shriram)
+- [Tanay Prataap](https://twitter.com/tanaypratap)
