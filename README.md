@@ -20,7 +20,7 @@ We are pleased to announce that we have received a great response from developer
 - [Vilva Athiban P](https://twitter.com/vilvaathibanpb)
 - [Prateek Gogia](https://twitter.com/reeversedev)
 - [Ashok Dey](https://twitter.com/ashokdey_)
-- [Aditya Agarwaal](https://twitter.com/dev__adi)
+- [Aditya Agarwal](https://twitter.com/dev__adi)
 - [Ameer Jhan](https://twitter.com/ameerthehacker)
 - [Shriram Balaji](https://twitter.com/__shriram)
 - [Tanay Pratap](https://twitter.com/tanaypratap)
