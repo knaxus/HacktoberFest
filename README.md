@@ -2,13 +2,13 @@
 ![HacktoberFest Logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/) 2019
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
+
 ## Agenda
 
 With respect to [this](https://twitter.com/vilvaathibanpb/status/1178483041615990786) tweet by **[Vilva](https://twitter.com/vilvaathibanpb)**
 
 > As [@hacktoberfest](https://twitter.com/hacktoberfest) is approaching, @reeversedev, @ashokdey_ and I have decided to dedicate 30 hours each in the month to individually help 30 people each in their journey to open source. We will be spending one hour per person and it will be a remote session. 
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
 
 We are pleased to announce that we have received a great response from developers all cross and we also got few more mentors. So here's what it's going to happen:
 
