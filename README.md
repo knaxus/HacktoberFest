@@ -8,8 +8,8 @@ With respect to this tweet by **Vilva**: [https://twitter.com/vilvaathibanpb/sta
 
 We are pleased to announce that we have received a great response from developers all cross and we also got few more mentors. So here's what it's going to happen:
 
-- We have 103 entries. We will divide them across 6 of us so its approximately 17 per person
-- We group them as set of 4 people per batch and one extra for only one batch
+- We have 103 entries. We will divide them across 7 of us so its approximately 15 per person
+- We group them as set of 4 people per batch
 - The grouping happens based on interests of people
 - We show them the ways of OSS, like how we choose a repo, find a issue, raise a PR etc and how to start from simple stuff.
 - And definitely not everyone will move forward, but those who do, we will re-group them and revisit them on ad-hoc basis and provide further support
@@ -17,7 +17,7 @@ We are pleased to announce that we have received a great response from developer
 
 ## List of Mentors
 
-- [Vilva Athiban P](https://twitter.com/vilvaathibanpb)
+- [Vilva Athiban P B](https://twitter.com/vilvaathibanpb)
 - [Prateek Gogia](https://twitter.com/reeversedev)
 - [Ashok Dey](https://twitter.com/ashokdey_)
 - [Aditya Agarwal](https://twitter.com/dev__adi)
