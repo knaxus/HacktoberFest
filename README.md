@@ -1,6 +1,6 @@
 
 ![HacktoberFest Logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
-# [HacktoberFest 2019](https://hacktoberfest.digitalocean.com/)
+# [HacktoberFest]((https://hacktoberfest.digitalocean.com/) 2019
 
 ## Agenda
 
