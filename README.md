@@ -18,12 +18,12 @@ We are pleased to announce that we have received a great response from developer
 ## List of Mentors
 
 - [Vilva Athiban P](https://twitter.com/vilvaathibanpb)
-- [Prateek Gogoi](https://twitter.com/reeversedev)
+- [Prateek Gogia](https://twitter.com/reeversedev)
 - [Ashok Dey](https://twitter.com/ashokdey_)
 - [Aditya Agarwaal](https://twitter.com/dev__adi)
 - [Ameer Jhan](https://twitter.com/ameerthehacker)
 - [Shriram Balaji](https://twitter.com/__shriram)
-- [Tanay Prataap](https://twitter.com/tanaypratap)
+- [Tanay Pratap](https://twitter.com/tanaypratap)
 - [Vinit Shahdeo](https://twitter.com/Vinit_Shahdeo)
 
 ## List of Participants
