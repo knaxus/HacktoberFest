@@ -33,3 +33,23 @@ We are pleased to announce that we have received a great response from developer
 ## List of Participants
 
 You can find the list of participants here: [Google Sheet](https://docs.google.com/spreadsheets/d/1yHdWDZj3ew1CTaunp_jEMrvkEjuVVyueLPd1w1QCWx0/edit?pli=1#gid=0)
+
+## Support for Technologies
+
+| Technology       | Available Mentors        
+|:------------- |----------------:|
+| JavaScript | ALL |
+| TypeScript | Shriram, Ameer |
+| React.js | ALL |
+| Vue.js | Aditya |
+| Angular | Ameer |
+| Node.js | ALL | 
+| GraphQL | Vilva, Prateek |
+| Apollo | Vilva, Prateek |
+| Golang | Shriram |
+| Electron | Ameer, Vinit |
+| React Native | Shriram |
+| PHP | Vinit |
+| C# | Ameer |
+| Python | Aditya |
+| Docker | Ameer |
