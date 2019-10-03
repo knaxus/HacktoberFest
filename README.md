@@ -1,5 +1,5 @@
 # Hacktober Fest 2019 
-Annual fest to encourage open source development by [Digital Ocean](https://hacktoberfest.digitalocean.com/)
+Annual fest to encourage open source development by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [Dev.to](https://dev.to)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
 
