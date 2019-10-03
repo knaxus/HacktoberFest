@@ -1,5 +1,5 @@
 
-![HacktoberFest Logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
+![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/) 2019
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
@@ -12,10 +12,10 @@ With respect to [this](https://twitter.com/vilvaathibanpb/status/117848304161599
 
 We are pleased to announce that we have received a great response from developers all cross and we also got few more mentors. So here's what it's going to happen:
 
-- We have 103 entries. We will divide them across 7 of us so its approximately 15 per person
+- We have around 85 entries. We will divide them across 7 of us so its approximately 12 per person
 - We group them as set of 4 people per batch
 - The grouping happens based on interests of people
-- We show them the ways of OSS, like how we choose a repo, find a issue, raise a PR etc and how to start from simple stuff.
+- We show them the ways of OSS, like how we choose a repo, find an issue, raise a PR etc and how to start from simple stuff.
 - And definitely not everyone will move forward, but those who do, we will re-group them and revisit them on ad-hoc basis and provide further support
 - **Our role ends when their first PR gets merged**
 
@@ -54,4 +54,7 @@ You can find the list of participants here: [Google Sheet](https://docs.google.c
 | Docker | Ameer |
 
 ---
-![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
+
+## Community 
+
+[Join the Spectrum Channel](https://spectrum.chat/road-to-hacktober)
