@@ -54,4 +54,8 @@ You can find the list of participants here: [Google Sheet](https://docs.google.c
 | Docker | Ameer |
 
 ---
+
+## Community 
+
+[Join the Spectrum Channel](https://spectrum.chat/road-to-hacktober)
 ![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
