@@ -1,9 +1,10 @@
-
-![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
-# [HacktoberFest](https://hacktoberfest.digitalocean.com/) 2019
+# Hacktober Fest 2019 
+Annual fest to encourage open source development by [Digital Ocean](https://hacktoberfest.digitalocean.com/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
----
+
+![HacktoberFest 2019](https://camo.githubusercontent.com/73b77ee452271049513e503ff3e8e8c172eaadab/68747470733a2f2f6861636b746f626572666573742e6469676974616c6f6365616e2e636f6d2f6173736574732f484631395f736f6369616c2d373434643937366632323765346166663638363634343361626365646538633635316233303965633963376339663734313066353934346638653132393962392e706e67)
+
 ## Agenda
 
 With respect to [this](https://twitter.com/vilvaathibanpb/status/1178483041615990786) tweet by **[Vilva](https://twitter.com/vilvaathibanpb)**
@@ -18,6 +19,10 @@ We are pleased to announce that we have received a great response from developer
 - We show them the ways of OSS, like how we choose a repo, find an issue, raise a PR etc and how to start from simple stuff.
 - And definitely not everyone will move forward, but those who do, we will re-group them and revisit them on ad-hoc basis and provide further support
 - **Our role ends when their first PR gets merged**
+
+## Join the Community
+
+Most of the mentors and participants are on [Spectrum Channel](https://spectrum.chat/road-to-hacktober)
 
 ## List of Mentors
 
@@ -52,9 +57,3 @@ You can find the list of participants here: [Google Sheet](https://docs.google.c
 | C# | Ameer |
 | Python | Aditya |
 | Docker | Ameer |
-
----
-
-## Community 
-
-[Join the Spectrum Channel](https://spectrum.chat/road-to-hacktober)
