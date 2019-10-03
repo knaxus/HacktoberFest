@@ -27,7 +27,6 @@ We are pleased to announce that we have received a great response from developer
 - [Aditya Agarwal](https://twitter.com/dev__adi)
 - [Ameer Jhan](https://twitter.com/ameerthehacker)
 - [Shriram Balaji](https://twitter.com/__shriram)
-- [Tanay Pratap](https://twitter.com/tanaypratap)
 - [Vinit Shahdeo](https://twitter.com/Vinit_Shahdeo)
 
 ## List of Participants
