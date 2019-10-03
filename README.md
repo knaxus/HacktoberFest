@@ -3,7 +3,7 @@
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/) 2019
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
-
+---
 ## Agenda
 
 With respect to [this](https://twitter.com/vilvaathibanpb/status/1178483041615990786) tweet by **[Vilva](https://twitter.com/vilvaathibanpb)**
@@ -53,3 +53,6 @@ You can find the list of participants here: [Google Sheet](https://docs.google.c
 | C# | Ameer |
 | Python | Aditya |
 | Docker | Ameer |
+
+---
+![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
