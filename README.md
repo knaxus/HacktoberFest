@@ -1,5 +1,5 @@
 
-![HacktoberFest Logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
+![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/) 2019
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo/HacktoberFest)
@@ -58,4 +58,3 @@ You can find the list of participants here: [Google Sheet](https://docs.google.c
 ## Community 
 
 [Join the Spectrum Channel](https://spectrum.chat/road-to-hacktober)
-![HacktoberFest Logo](https://i.ibb.co/6Y947xj/Hacktoberfest-19-Events-1457x180.png)
